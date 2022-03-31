@@ -2,7 +2,7 @@
   "Ads": [
       {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"ADMOB",
       "main_ads_banner": "",
       "main_ads_intertitial":"",
       "native_for_admob":"",
@@ -24,10 +24,40 @@
   "More":
   [
     {
-      "id":1,
-      "title":"Funny Kids",
-      "image":"file:///android_asset/1.png",
-      "link":"https://play.google.com/store/apps/details?id=wavideocall.funnykids.fakevideocall.diana.roma"
+      "id": 1,
+      "title": "Brancoala",
+      "image": "file:///android_asset/image/Screenshot_1.png",
+      "link": "https://play.google.com/store/apps/details?id=com.wavideocall.brancoala.prankcallbrancoala.familiabrancoala.brancoalacall"
+    },
+    {
+      "id": 2,
+      "title": "Aishwa Nahla",
+      "image": "file:///android_asset/image/Screenshot_2.png",
+      "link": "https://play.google.com/store/apps/details?id=com.wavideo.fakecall.aishwanahla.aishwanahlaoffline.aishwa.nahla.sholawat.offline"
+    },
+    {
+      "id": 3,
+      "title": "Gala Dan Fuji",
+      "image": "file:///android_asset/image/Screenshot_3.png",
+      "link": "https://play.google.com/store/apps/details?id=wavideocall.fakecall.fuji.gala.panggilan.palsu"
+    },
+    {
+      "id": 4,
+      "title": "Fanny Tjandra",
+      "image": "file:///android_asset/image/Screenshot_4.png",
+      "link": "https://play.google.com/store/apps/details?id=com.wavideo.fannytjandra.fake.call2022"
+    },
+    {
+      "id": 6,
+      "title": "Kayes",
+      "image": "file:///android_asset/image/Screenshot_5.png",
+      "link": "https://play.google.com/store/apps/details?id=wavideocall.kayes.onic.proplayer.esport.ml"
+    },
+    {
+      "id": 8,
+      "title": "Nissa Sabyan",
+      "image": "file:///android_asset/image/Screenshot_6.png",
+      "link": "https://play.google.com/store/apps/details?id=wavideo.nissasabyan.pranktelpon.sholawatpenyejukhati"
     }
   ],
   "Item":
